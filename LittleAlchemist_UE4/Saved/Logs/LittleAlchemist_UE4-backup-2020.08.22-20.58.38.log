@@ -1,0 +1,1041 @@
+﻿Log file open, 08/22/20 17:56:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LittleAlchemist_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.079827
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.08.22-20.56.08:818][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.08.22-20.56.08:819][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.22-20.56.08:820][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:820][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:827][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.22-20.56.08:827][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.22-20.56.08:828][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.22-20.56.08:829][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.22-20.56.08:829][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.22-20.56.08:829][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.22-20.56.08:832][  0]LogHAL: Display: Platform has ~ 16 GB [17058308096 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.22-20.56.08:832][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.22-20.56.08:832][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.22-20.56.08:832][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.22-20.56.08:833][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.22-20.56.08:834][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.22-20.56.08:834][  0]LogInit: Computer: DESKTOP-B3U14E2
+[2020.08.22-20.56.08:834][  0]LogInit: User: daviu
+[2020.08.22-20.56.08:834][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.22-20.56.08:834][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.22-20.56.08:834][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.22-20.56.08:834][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.22-20.56.08:834][  0]LogMemory: Process Physical Memory: 105.47 MB used, 105.48 MB peak
+[2020.08.22-20.56.08:834][  0]LogMemory: Process Virtual Memory: 100.58 MB used, 100.58 MB peak
+[2020.08.22-20.56.08:834][  0]LogMemory: Physical Memory: 8459.46 MB used,  7808.61 MB free, 16268.07 MB total
+[2020.08.22-20.56.08:834][  0]LogMemory: Virtual Memory: 5137.57 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.08.22-20.56.08:837][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.22-20.56.08:855][  0]LogInit: Using OS detected language (en-US).
+[2020.08.22-20.56.08:855][  0]LogInit: Using OS detected locale (en-US).
+[2020.08.22-20.56.08:856][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.22-20.56.09:038][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.22-20.56.09:095][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.22-20.56.09:095][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.22-20.56.09:244][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.22-20.56.09:244][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.22-20.56.09:244][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.22-20.56.09:244][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.22-20.56.09:320][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.08.22-20.56.09:320][  0]LogD3D11RHI:       6052/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.22-20.56.09:326][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2020.08.22-20.56.09:326][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.22-20.56.09:328][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.22-20.56.09:328][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.22-20.56.09:328][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.22-20.56.09:336][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.22-20.56.09:336][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.22-20.56.09:336][  0]LogWindows: EnumDisplayDevices:
+[2020.08.22-20.56.09:336][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.08.22-20.56.09:337][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.08.22-20.56.09:337][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.08.22-20.56.09:337][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.08.22-20.56.09:337][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2020.08.22-20.56.09:338][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2020.08.22-20.56.09:338][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2020.08.22-20.56.09:338][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.08.22-20.56.09:338][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.08.22-20.56.09:338][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.08.22-20.56.09:338][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.08.22-20.56.09:338][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.08.22-20.56.09:386][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.22-20.56.09:386][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.22-20.56.09:404][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.22-20.56.09:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.22-20.56.09:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.22-20.56.09:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.22-20.56.09:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.22-20.56.09:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.22-20.56.09:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.22-20.56.09:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.22-20.56.09:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.22-20.56.09:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.22-20.56.09:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.22-20.56.09:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.22-20.56.09:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.22-20.56.09:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.22-20.56.09:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.22-20.56.09:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.22-20.56.09:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.22-20.56.09:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.22-20.56.09:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.22-20.56.09:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.22-20.56.09:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.22-20.56.09:947][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.22-20.56.09:968][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Intermediate/Shaders/WorkingDirectory/880/).
+[2020.08.22-20.56.09:969][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daviu/AppData/Local/Temp/UnrealShaderWorkingDir/4726F90240BEA50F03166A9C52EE5FDA/'.
+[2020.08.22-20.56.09:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.22-20.56.09:969][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.22-20.56.09:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.22-20.56.10:779][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/daviu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/daviu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.22-20.56.10:846][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.22-20.56.10:857][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.22-20.56.10:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.22-20.56.10:857][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.22-20.56.10:858][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daviu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.22-20.56.10:858][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.22-20.56.10:858][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.22-20.56.10:894][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.22-20.56.10:897][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.22-20.56.10:897][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.22-20.56.10:946][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.08.22-20.56.11:306][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.22-20.56.11:474][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.22-20.56.11:474][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.22-20.56.11:474][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.22-20.56.11:474][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.22-20.56.11:474][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.22-20.56.11:495][  0]LogNetVersion: LittleAlchemist_UE4 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1837051174)
+[2020.08.22-20.56.12:539][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035739 seconds
+[2020.08.22-20.56.12:547][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.22-20.56.12:547][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.22-20.56.12:547][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.22-20.56.13:040][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.22-20.56.13:045][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.22-20.56.13:114][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.13:114][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.13:116][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.13:116][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.13:117][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.13:227][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.22-20.56.13:245][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.22-20.56.13:245][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.22-20.56.13:353][  0]LogOcInput: OculusInput pre-init called
+[2020.08.22-20.56.13:362][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.22-20.56.13:362][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.22-20.56.13:466][  0]LogEngine: Initializing Engine...
+[2020.08.22-20.56.13:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.22-20.56.13:469][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.22-20.56.13:916][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.22-20.56.13:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-20.56.13:945][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-20.56.13:945][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-20.56.13:945][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-20.56.14:003][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Name: Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-20.56.14:004][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-20.56.14:036][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.56.14:043][  0]LogInit: FAudioDevice initialized.
+[2020.08.22-20.56.14:043][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.22-20.56.14:129][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/daviu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.22-20.56.14:129][  0]LogInit: Texture streaming: Enabled
+[2020.08.22-20.56.14:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.22-20.56.14:141][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.22-20.56.14:143][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.22-20.56.14:192][  0]LogInit: Transaction tracking system initialized
+[2020.08.22-20.56.14:203][  0]BlueprintLog: New page: Editor Load
+[2020.08.22-20.56.14:233][  0]LocalizationService: Localization service is disabled
+[2020.08.22-20.56.14:530][  0]LogFileCache: Scanning file cache for directory 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/' took 0.00s
+[2020.08.22-20.56.14:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.22-20.56.14:530][  0]LogCook: Display: Mobile HDR setting 0
+[2020.08.22-20.56.15:205][  0]SourceControl: Source control is disabled
+[2020.08.22-20.56.15:205][  0]Cmd: MAP LOAD FILE="F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.22-20.56.15:206][  0]LightingResults: New page: Lighting Build
+[2020.08.22-20.56.15:206][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-20.56.15:207][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-20.56.15:207][  0]MapCheck: New page: Map Check
+[2020.08.22-20.56.15:207][  0]LightingResults: New page: Lighting Build
+[2020.08.22-20.56.15:238][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.08.22-20.56.15:647][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.08.22-20.56.15:656][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.22-20.56.15:686][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.08.22-20.56.15:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.22-20.56.15:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2020.08.22-20.56.15:687][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.482
+[2020.08.22-20.56.15:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.56.15:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.56.15:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.56.15:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.56.15:947][  0]LogCollectionManager: Loaded 0 collections in 0.001861 seconds
+[2020.08.22-20.56.15:961][  0]LogFileCache: Scanning file cache for directory 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/Collections/' took 0.00s
+[2020.08.22-20.56.15:961][  0]LogFileCache: Scanning file cache for directory 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/Developers/daviu/Collections/' took 0.00s
+[2020.08.22-20.56.15:961][  0]LogFileCache: Scanning file cache for directory 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/Collections/' took 0.00s
+[2020.08.22-20.56.15:961][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3015 classes and 717 folders.
+[2020.08.22-20.56.15:964][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.22-20.56.16:017][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.22-20.56.16:027][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.08.22-20.56.16:088][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.22-20.56.16:091][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.22-20.56.16:098][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.22-20.56.16:187][  0]LogRenderer: Reallocating scene render targets to support 1188x688 Format 10 NumSamples 1 (Frame:1).
+[2020.08.22-20.56.16:286][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.22-20.56.16:286][  0]LogLoad: (Engine Initialization) Total time: 10.70 seconds
+[2020.08.22-20.56.16:286][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.22-20.56.16:343][  0]LogAssetRegistry: Asset discovery search completed in 5.3982 seconds
+[2020.08.22-20.56.16:348][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2020.08.22-20.56.16:350][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.22-20.56.16:398][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.22-20.56.17:324][ 62]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.22-20.56.33:465][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LittleAlchemistGame/Blueprints/LittleAlchemistGM.LittleAlchemistGM
+[2020.08.22-20.56.33:832][248]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2020.08.22-20.56.35:239][248]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.22-20.56.44:592][908]BlueprintLog: New page: Compile LittleAlchemistGM
+[2020.08.22-20.56.44:942][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.08.22-20.56.45:506][940]LogSavePackage: Moving 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/LittleAlchemistGM2F691FC74DF985CF243510A678B5095A.tmp' to 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/LittleAlchemistGame/Blueprints/LittleAlchemistGM.uasset'
+[2020.08.22-20.56.45:527][940]AssetCheck: New page: Asset Save: LittleAlchemistGM
+[2020.08.22-20.56.45:527][940]LogContentValidation: Display: Validating Blueprint /Game/LittleAlchemistGame/Blueprints/LittleAlchemistGM.LittleAlchemistGM
+[2020.08.22-20.56.46:503][ 16]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.22-20.57.10:824][  5]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_IntInt' [Element not found.]
+[2020.08.22-20.57.17:763][528]BlueprintLog: New page: Compile LittleAlchemistGM
+[2020.08.22-20.57.18:046][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.08.22-20.57.18:644][553]LogSavePackage: Moving 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Saved/LittleAlchemistGM3B3FCB854186000DC963CC97A0049F0B.tmp' to 'F:/OneDrive/Armazenamento_Davi/Projetos/Atelier/LittleAlchemistGame/LittleAlchemist_UE4/Content/LittleAlchemistGame/Blueprints/LittleAlchemistGM.uasset'
+[2020.08.22-20.57.18:659][553]AssetCheck: New page: Asset Save: LittleAlchemistGM
+[2020.08.22-20.57.18:659][553]LogContentValidation: Display: Validating Blueprint /Game/LittleAlchemistGame/Blueprints/LittleAlchemistGM.LittleAlchemistGM
+[2020.08.22-20.57.19:589][620]LogTemp: Repeating last play command: Simulate
+[2020.08.22-20.57.19:605][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.19:605][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-20.57.19:605][620]PIE: New page: SIE session: TopDownExampleMap (Aug 22, 2020, 2:57:19 PM)
+[2020.08.22-20.57.19:606][620]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.22-20.57.19:607][620]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.22-20.57.19:607][620]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.08.22-20.57.19:623][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015754s)
+[2020.08.22-20.57.19:625][620]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.08.22-20.57.19:625][620]LogPlayLevel: PIE: World Init took: (0.001748s)
+[2020.08.22-20.57.19:625][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017860s)
+[2020.08.22-20.57.19:661][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.08.22-20.57.19:661][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-20.57.19:661][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-20.57.19:661][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-20.57.19:662][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-20.57.19:662][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-20.57.19:662][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-20.57.19:662][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-20.57.19:662][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-20.57.19:662][620]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-20.57.19:662][620]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Name: Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Is Default: Yes
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: Channel Order:
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-20.57.19:709][620]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-20.57.19:731][620]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.57.19:733][620]LogInit: FAudioDevice initialized.
+[2020.08.22-20.57.19:739][620]LogLoad: Game class is 'LittleAlchemistGM_C'
+[2020.08.22-20.57.19:742][620]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.08.22-17.57.19
+[2020.08.22-20.57.19:742][620]LogWorld: Bringing up level for play took: 0.001275
+[2020.08.22-20.57.19:742][620]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.08.22-20.57.19:744][620]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.22-20.57.19:748][620]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:749][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Starting Print Array
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:750][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.19:751][620]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.19:785][620]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.373
+[2020.08.22-20.57.19:787][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.26:841][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.26:842][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.26:842][754]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.26:842][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.57.26:842][754]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.08.22-20.57.26:843][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.26:843][754]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-20.57.26:847][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-20.57.26:852][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-20.57.26:852][754]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.26:857][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-20.57.26:893][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.26:898][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.57.26:929][754]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.08.22-20.57.26:961][755]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.08.22-20.57.27:589][802]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.08.22-20.57.28:059][831]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.22-20.57.30:720][ 13]Cmd: showlog
+[2020.08.22-20.57.36:377][271]LogTemp: Repeating last play command: Simulate
+[2020.08.22-20.57.36:392][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.36:393][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-20.57.36:393][271]PIE: New page: SIE session: TopDownExampleMap (Aug 22, 2020, 2:57:36 PM)
+[2020.08.22-20.57.36:393][271]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.08.22-20.57.36:409][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016132s)
+[2020.08.22-20.57.36:411][271]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.08.22-20.57.36:411][271]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2020.08.22-20.57.36:412][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018489s)
+[2020.08.22-20.57.36:451][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.08.22-20.57.36:455][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-20.57.36:455][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-20.57.36:455][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-20.57.36:456][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-20.57.36:456][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-20.57.36:456][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-20.57.36:456][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-20.57.36:456][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-20.57.36:457][271]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-20.57.36:457][271]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Name: Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Is Default: Yes
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Channel Count Used: 2
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Device Channel Count: 2
+[2020.08.22-20.57.36:505][271]LogAudioMixer: Display: Channel Order:
+[2020.08.22-20.57.36:506][271]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-20.57.36:506][271]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-20.57.36:528][271]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek High Definition Audio)
+[2020.08.22-20.57.36:530][271]LogInit: FAudioDevice initialized.
+[2020.08.22-20.57.36:541][271]LogLoad: Game class is 'LittleAlchemistGM_C'
+[2020.08.22-20.57.36:542][271]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.08.22-17.57.36
+[2020.08.22-20.57.36:543][271]LogWorld: Bringing up level for play took: 0.001331
+[2020.08.22-20.57.36:544][271]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.08.22-20.57.36:545][271]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.22-20.57.36:546][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:546][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:546][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:547][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:548][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:548][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:549][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:549][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 8
+[2020.08.22-20.57.36:550][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:550][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:550][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:551][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:551][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:551][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:552][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:552][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Won't  fit, recalculating
+[2020.08.22-20.57.36:552][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] Starting Print Array
+[2020.08.22-20.57.36:553][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:553][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:553][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:554][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:554][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:554][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:555][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:555][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:555][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:557][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:558][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:558][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:558][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:559][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:559][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:559][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:560][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:560][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:561][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:561][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:561][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:562][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:562][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:562][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:563][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:563][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:563][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:564][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:564][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:565][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:565][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:565][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:565][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:568][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:568][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:569][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:570][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:570][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:570][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:571][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:571][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:572][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:572][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:572][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:573][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:573][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:573][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:573][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:574][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:574][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:574][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:575][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:575][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:576][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:576][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:576][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:579][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:579][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:580][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:580][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 3 
+[2020.08.22-20.57.36:580][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:581][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:581][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:581][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:582][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:582][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:583][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:583][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:583][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:583][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 2 
+[2020.08.22-20.57.36:584][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 1 
+[2020.08.22-20.57.36:584][271]LogBlueprintUserMessages: [LittleAlchemistGM_C_0] 
+
+[2020.08.22-20.57.36:620][271]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.461
+[2020.08.22-20.57.36:630][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.44:887][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.44:888][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.44:889][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.44:890][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.57.44:891][586]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.08.22-20.57.44:893][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.44:893][586]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-20.57.44:896][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-20.57.44:919][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-20.57.44:920][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.08.22-20.57.44:926][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-20.57.44:957][586]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.08.22-20.57.44:961][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-20.57.44:967][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.08.22-20.57.44:993][587]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.08.22-20.58.37:979][850]LogHttp: Warning: 000002838E89CB80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40BE5805-40C0-2D94-6767-A79882B7DFBB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=b48188e04fc40d3a61f10491b6400802%7C3746d527c60d4026b9a81157c66a5d8b%7C57d94b23-bc9f-4feb-a01e-dbddce89a6a7&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.08.22-20.58.37:981][850]LogHttp: Warning: 000002838E89CB80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.08.22-20.58.37:982][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2831d6aff70 [can pipeline])
+[2020.08.22-20.58.37:983][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.08.22-20.58.37:983][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.93.173) port 443 (#0))
+[2020.08.22-20.58.37:984][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.08.22-20.58.37:984][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.08.22-20.58.37:985][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.22-20.58.37:985][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.08.22-20.58.37:986][850]LogHttp: Warning: 000002838E89CB80: libcurl info message cache 7 (Closing connection 0)
+[2020.08.22-20.58.37:986][850]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40BE5805-40C0-2D94-6767-A79882B7DFBB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=b48188e04fc40d3a61f10491b6400802%7C3746d527c60d4026b9a81157c66a5d8b%7C57d94b23-bc9f-4feb-a01e-dbddce89a6a7&AppEnvironment=datacollector-binary&UploadType=eteventstream
