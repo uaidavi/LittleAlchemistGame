@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LittleAlchemist_UE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E84C3CF3-A332-4976-9F8F-2B81E3F777ED}</UniqueIdentifier>
+      <UniqueIdentifier>{09776119-77AB-476B-965A-BB47C950E83F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{687723F9-D8EF-40F9-AAEB-362A5ADD4EF5}</UniqueIdentifier>
+      <UniqueIdentifier>{FEA93552-F3AF-4D7B-806C-DC953393136B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LittleAlchemist_UE4">
-      <UniqueIdentifier>{9D55E7D6-2738-4705-AF28-47C88908BFC5}</UniqueIdentifier>
+      <UniqueIdentifier>{6BA4C84D-C8D5-4510-9A65-636929B87044}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4\LittleAlchemist_UE4.Build.cs">
       <Filter>Source\LittleAlchemist_UE4</Filter>
@@ -42,15 +42,21 @@
       <Filter>Source\LittleAlchemist_UE4</Filter>
     </ClInclude>
     <Filter Include="Source\LittleAlchemist_UE4\Private">
-      <UniqueIdentifier>{B20E7CB7-8953-4216-8876-319EBE8DB484}</UniqueIdentifier>
+      <UniqueIdentifier>{CEA03239-B3ED-40D4-9933-82F35B616B42}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\LittleAlchemist_UE4\Private\CanoSplineComponent.cpp">
       <Filter>Source\LittleAlchemist_UE4\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\LittleAlchemist_UE4\Private\SetariaCreationSpline.cpp">
+      <Filter>Source\LittleAlchemist_UE4\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\LittleAlchemist_UE4\Public">
-      <UniqueIdentifier>{E2348344-6EBE-4273-8967-A63ADF84014E}</UniqueIdentifier>
+      <UniqueIdentifier>{B50A9161-E613-459D-BDD3-3CD195D4FBB3}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\LittleAlchemist_UE4\Public\CanoSplineComponent.h">
+      <Filter>Source\LittleAlchemist_UE4\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LittleAlchemist_UE4\Public\SetariaCreationSpline.h">
       <Filter>Source\LittleAlchemist_UE4\Public</Filter>
     </ClInclude>
   </ItemGroup>
