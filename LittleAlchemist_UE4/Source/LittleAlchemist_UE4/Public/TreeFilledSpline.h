@@ -18,6 +18,6 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		int ArvoreCount;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float BorderSpacing;
+		float BorderSpacing = 9000;
 	
 };
