@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LittleAlchemist_UE4.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C70CBB36-C833-42C2-98D8-59676398B947}</UniqueIdentifier>
+      <UniqueIdentifier>{256235AA-06D4-43E9-8632-76036035AE0A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{46FEACB1-4009-475D-82A5-17FAC51E4406}</UniqueIdentifier>
+      <UniqueIdentifier>{001EE99B-0C44-42A0-A5AF-A60DAA03CB7C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LittleAlchemist_UE4">
-      <UniqueIdentifier>{B57EB67F-0CD0-46AF-ACE1-C70ACD6A8293}</UniqueIdentifier>
+      <UniqueIdentifier>{EE93610A-2E76-40FB-A9FC-C83EDDB5CFB9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4\LittleAlchemist_UE4.Build.cs">
       <Filter>Source\LittleAlchemist_UE4</Filter>
@@ -42,7 +42,7 @@
       <Filter>Source\LittleAlchemist_UE4</Filter>
     </ClInclude>
     <Filter Include="Source\LittleAlchemist_UE4\Private">
-      <UniqueIdentifier>{286B39C7-07CB-49BD-B62C-C238E7FFE75B}</UniqueIdentifier>
+      <UniqueIdentifier>{CB0A4138-7775-46AE-80BE-AF2B6C035A1F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\LittleAlchemist_UE4\Private\CanoSplineComponent.cpp">
       <Filter>Source\LittleAlchemist_UE4\Private</Filter>
@@ -54,7 +54,7 @@
       <Filter>Source\LittleAlchemist_UE4\Private</Filter>
     </ClCompile>
     <Filter Include="Source\LittleAlchemist_UE4\Public">
-      <UniqueIdentifier>{C006220C-8E14-4F8F-AD9B-E2CEBEB7F75A}</UniqueIdentifier>
+      <UniqueIdentifier>{8DB613EF-D6AC-4816-BE8F-B93DE82715C7}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\LittleAlchemist_UE4\Public\CanoSplineComponent.h">
       <Filter>Source\LittleAlchemist_UE4\Public</Filter>
