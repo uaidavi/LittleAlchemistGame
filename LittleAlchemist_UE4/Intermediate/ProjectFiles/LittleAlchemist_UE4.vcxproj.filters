@@ -3,7 +3,11 @@
   <ItemGroup>
     <None Include="..\..\LittleAlchemist_UE4.uproject" />
     <Filter Include="Source">
+<<<<<<< HEAD
       <UniqueIdentifier>{47D845EF-0E0F-491F-899D-48FBC300C969}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{256235AA-06D4-43E9-8632-76036035AE0A}</UniqueIdentifier>
+>>>>>>> master
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +16,11 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
+<<<<<<< HEAD
       <UniqueIdentifier>{6244DC6E-1F00-4A19-9E17-B961C1E7CEE4}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{001EE99B-0C44-42A0-A5AF-A60DAA03CB7C}</UniqueIdentifier>
+>>>>>>> master
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +38,11 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\LittleAlchemist_UE4">
+<<<<<<< HEAD
       <UniqueIdentifier>{02B3D639-B26C-4046-8836-45A843A2A2A6}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{EE93610A-2E76-40FB-A9FC-C83EDDB5CFB9}</UniqueIdentifier>
+>>>>>>> master
     </Filter>
     <None Include="..\..\Source\LittleAlchemist_UE4\LittleAlchemist_UE4.Build.cs">
       <Filter>Source\LittleAlchemist_UE4</Filter>
@@ -42,7 +54,11 @@
       <Filter>Source\LittleAlchemist_UE4</Filter>
     </ClInclude>
     <Filter Include="Source\LittleAlchemist_UE4\Private">
+<<<<<<< HEAD
       <UniqueIdentifier>{E912394D-50B6-4BBE-A3D6-9C73A22EDE0C}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{CB0A4138-7775-46AE-80BE-AF2B6C035A1F}</UniqueIdentifier>
+>>>>>>> master
     </Filter>
     <ClCompile Include="..\..\Source\LittleAlchemist_UE4\Private\CanoSplineComponent.cpp">
       <Filter>Source\LittleAlchemist_UE4\Private</Filter>
@@ -54,7 +70,11 @@
       <Filter>Source\LittleAlchemist_UE4\Private</Filter>
     </ClCompile>
     <Filter Include="Source\LittleAlchemist_UE4\Public">
+<<<<<<< HEAD
       <UniqueIdentifier>{BF25DCB6-7E57-4BC7-A553-73DEFCB638EA}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{8DB613EF-D6AC-4816-BE8F-B93DE82715C7}</UniqueIdentifier>
+>>>>>>> master
     </Filter>
     <ClInclude Include="..\..\Source\LittleAlchemist_UE4\Public\CanoSplineComponent.h">
       <Filter>Source\LittleAlchemist_UE4\Public</Filter>

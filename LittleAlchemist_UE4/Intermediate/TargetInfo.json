@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "LittleAlchemist_UE4",
-			"Path": "C:\\Users\\Karine\\Documents\\GitHub\\LittleAlchemistGame\\LittleAlchemist_UE4\\Source\\LittleAlchemist_UE4.Target.cs",
+			"Path": "F:\\OneDrive\\Armazenamento_Davi\\Projetos\\Atelier\\LittleAlchemistGame\\LittleAlchemist_UE4\\Source\\LittleAlchemist_UE4.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "LittleAlchemist_UE4Editor",
-			"Path": "C:\\Users\\Karine\\Documents\\GitHub\\LittleAlchemistGame\\LittleAlchemist_UE4\\Source\\LittleAlchemist_UE4Editor.Target.cs",
+			"Path": "F:\\OneDrive\\Armazenamento_Davi\\Projetos\\Atelier\\LittleAlchemistGame\\LittleAlchemist_UE4\\Source\\LittleAlchemist_UE4Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]
